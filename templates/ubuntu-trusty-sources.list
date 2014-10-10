@@ -1,0 +1,7 @@
+#deb http://mirrors.digitalocean.com/ubuntu/ trusty main restricted universe
+#deb http://mirrors.digitalocean.com/ubuntu/ trusty-updates main restricted universe
+#deb http://mirrors.digitalocean.com/ubuntu/ trusty-security main restricted universe
+
+deb http://mirror1.ku.ac.th/ubuntu/ trusty main restricted universe
+deb http://mirror1.ku.ac.th/ubuntu/ trusty-updates main restricted universe
+deb http://mirror1.ku.ac.th/ubuntu/ trusty-security main restricted universe
