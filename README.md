@@ -1,6 +1,6 @@
 # Debian-based Server Bootstrap
 
-This script is an 2009 DevOps, now I have utilized container-based deployment.
+This script is a 2009 DevOps, now I have utilized container-based deployment.
 
 ## Steps
 
