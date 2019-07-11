@@ -16,7 +16,7 @@ Then, login with the new user.
 
 Set Vim as a default editor,
 
-`update-alternatives --confit editor`
+`update-alternatives --config editor`
 
 Disable root login `PermitRootLogin no` and password authentication `PasswordAuthentication no`,
 
