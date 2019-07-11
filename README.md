@@ -44,4 +44,4 @@ Modify the line,
 
 Install some useful tools,
 
-`sudo apt install byobu htop git docker -y`
+`sudo apt install -y byobu htop git docker`
