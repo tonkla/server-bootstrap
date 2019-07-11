@@ -1,5 +1,13 @@
 # Debian-based Server Bootstrap
 
+This script is an 2009 DevOps, now I have utilized container-based deployment.
+
+## Steps
+
+Update locale,
+
+`update-locale LC_ALL=en_US.UTF-8 LANG=en_US.UTF-8`
+
 Update security patches,
 
 `apt update && apt upgrade`
@@ -36,4 +44,4 @@ Modify the line,
 
 Install some useful tools,
 
-`sudo apt install byobu htop -y`
+`sudo apt install byobu htop git docker -y`
